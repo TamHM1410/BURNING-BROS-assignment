@@ -17,7 +17,7 @@ Follow the instructions below to set up and run this project locally.
 
 Before you begin, ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v14 or later)
+- [Node.js](https://nodejs.org/) (v18 or later)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ### 1. Clone the Repository
